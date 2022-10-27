@@ -14,4 +14,4 @@ class TestCalculator:
         assert 2 == calculator.subtract(4, 2)
 
     def test_subtraction_2(self):
-        assert 20 == calculator.subtract(40, 20)
+        assert 181818181818181818181818181818181818 == calculator.subtract(40, 20)
